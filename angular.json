@@ -55,14 +55,6 @@
                   "with": "src/main.augury.ts"
                 }
               ]
-            },
-            "augury-flame": {
-              "fileReplacements": [
-                {
-                  "replace": "src/main.ts",
-                  "with": "src/main.augury-flame.ts"
-                }
-              ]
             }
           }
         },
@@ -77,9 +69,6 @@
             },
             "augury": {
               "browserTarget": "inventory-app:build:augury"
-            },
-            "augury-flame": {
-              "browserTarget": "inventory-app:build:augury-flame"
             }
           }
         },
